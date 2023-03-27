@@ -1,0 +1,14 @@
+{
+  "name": "weekend-assessment-practical",
+  "version": "1.0.0",
+  "description": "weekend assessment using yargs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dancolion",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
